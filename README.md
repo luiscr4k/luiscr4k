@@ -4,7 +4,7 @@ Welcome to my GitHub page! 🚀
 
 ## About Me
 
-I'm Luis Cruces, a Python back-end developer hailing from Venezuela. 🌎 With a professional English proficiency of C1-C2, I strive to create cool and innovative projects. At 25 years old, I bring my expertise in Python frameworks like Flask and Django, along with a strong foundation in various programming languages, tools, and concepts. 💻
+I'm Luis Cruces, a Python back-end developer hailing from Venezuela. 🌎 With a professional English proficiency of C1, I strive to create cool and innovative projects. At 25 years old, I bring my expertise in Python frameworks like Flask and Django, along with a strong foundation in various programming languages, tools, and concepts. 💻
 
 ## Skills
 
